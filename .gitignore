@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/metrica/
+data/statsbomb/
+data/transfermarkt/
+output/
+
+# Private working notes — kept locally, not published.
+/HISTORY.md
+/NOTES.md
+/docs/idea-positive-negative-space.md
